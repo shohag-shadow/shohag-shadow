@@ -32,19 +32,14 @@ Here are some ideas to get you started:
         <hr>
     </header>
     <main>
-       
             <h2>About me</h2>
             Passionate competitive programmer, problem solver and quick learner looking for an entry-level position as a software engineer in a dynamic firm that values my analytical and technical skills and provides scope for updating my knowledge.
         </section>
-
-       
             <h2>Skills</h2>
             <ul>
                 <li>C/C++ <progress min="0" max="100" value="95"></progress></li>
                 <li>Java &nbsp; &nbsp; <progress min="0" max="100" value="70"></progress></li>
             </ul>
-       
-        
             <h2>Problem Solving</h2>
             <ul>
                 <li>
@@ -62,7 +57,6 @@ Here are some ideas to get you started:
                     </ul>
                 </li>
             </ul>
-       
             <h2>Achievement</h2>
             <ul>
                 <li>Champion in RDCPC(Rangpur Divisional Collegiate Programming Contest)</li>
@@ -72,19 +66,16 @@ Here are some ideas to get you started:
                 <li>NCPC(National Collegiate Programming Contest) final participation</li>
                 <li>ICPC(International Collegiate Programming Contest) regional participation</li>
             </ul>
-        
             <h2>Education</h2>
             <ul>
                 <li>B.Sc. (Engineering) in Computer Science and Engineering (2022 - Present) <br>
                     Hajee Mohammad Danesh Science & Technology University</li>
             </ul>
-       
             <h2>Language</h2>
             <ul>
                 <li>Bangla&nbsp; <progress min="0" max="100" value="100"></progress></li>
                 <li>English <progress min="0" max="100" value="70"></progress></li>
             </ul>
-       
             <h2>Project</h2>
             <ul>
                 <li>
@@ -113,18 +104,14 @@ Here are some ideas to get you started:
                             </table>
                         </li>
                     </ul>
-
                 </li>
             </ul>
-       
             <h2>Leadership Experience</h2>
             <ol>
                 <li>Office Secretary at Programmers Arena (Present)</Area></li>
                 <li>Seminar & Workshop Secretary at Programmers Arena, HSTU ( Jan 2024 - Dec 2024)</li>
             </ol>
-       
     </main>
     <footer>
-
     </footer>
 </body>
