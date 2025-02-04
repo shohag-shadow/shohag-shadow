@@ -12,7 +12,7 @@
         <img src="./cropped_dp.png" alt="Md Shohag Showdagor's photo" width="300">
         <figcaption>CSE Student</figcaption>
         </figure>
-        <be>
+        <br>
         <nav>
             <a href="https://www.linkedin.com/in/md-shohag-showdagor/">Linkedin</a> |
             <a href="https://github.com/shohag-shadow">GitHub</a> | 
