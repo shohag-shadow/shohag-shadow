@@ -1,19 +1,23 @@
-## Hi there 👋
-
-<!--
-**shohag-shadow/shohag-shadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Md Shohag Showdagor</title>
+    <style>
+        header{
+            text-align: center;
+        }
+        table{
+            border-collapse: collapse;
+            padding: 5px;
+        }
+        td,th{
+            border: 1px solid black;
+            padding: 2px;
+        }
+    </style>
+</head>
 <body>
     <header>
         <h1>Md Shohag Showdagor</h1>
@@ -115,3 +119,4 @@ Here are some ideas to get you started:
     <footer>
     </footer>
 </body>
+</html>
