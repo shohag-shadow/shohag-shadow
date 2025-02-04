@@ -17,8 +17,7 @@
             <a href="https://www.linkedin.com/in/md-shohag-showdagor/">Linkedin</a> |
             <a href="https://github.com/shohag-shadow">GitHub</a> | 
             <a href="mailto:mdshohagshowdagor001@gmail.com" type="email">E-Mail</a> | 
-            <a href="https://codeforces.com/profile/shohag.shadow">Codeforces</a> | 
-            <a href="tel:+8801875207685" >Phone</a>
+            <a href="https://codeforces.com/profile/shohag.shadow">Codeforces</a>
         </nav>
         <hr>
     </header>
