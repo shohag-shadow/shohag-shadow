@@ -3,27 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Md Shohag Showdagor</title>
-    <style>
-        header{
-            text-align: center;
-        }
-        table{
-            border-collapse: collapse;
-            padding: 5px;
-        }
-        td,th{
-            border: 1px solid black;
-            padding: 2px;
-        }
-    </style>
 </head>
 <body>
     <header>
         <h1>Md Shohag Showdagor</h1>
         <figure>
         </figure>
-        <img src="./assets/cropped_dp.png" alt="Md Shohag Showdagor's photo" width="300">
+        <img src="./cropped_dp.png" alt="Md Shohag Showdagor's photo" width="300">
         <figcaption>CSE Student</figcaption>
         </figure>
         <nav>
