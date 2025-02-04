@@ -14,24 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Md Shohag Showdagor</title>
-    <style>
-        header{
-            text-align: center;
-        }
-        table{
-            border-collapse: collapse;
-            padding: 5px;
-        }
-        td,th{
-            border: 1px solid black;
-            padding: 2px;
-        }
-    </style>
-</head>
 <body>
     <header>
         <h1>Md Shohag Showdagor</h1>
@@ -50,20 +32,19 @@ Here are some ideas to get you started:
         <hr>
     </header>
     <main>
-        <section id="about">
+       
             <h2>About me</h2>
             Passionate competitive programmer, problem solver and quick learner looking for an entry-level position as a software engineer in a dynamic firm that values my analytical and technical skills and provides scope for updating my knowledge.
         </section>
 
-        <section id="skills">
+       
             <h2>Skills</h2>
             <ul>
                 <li>C/C++ <progress min="0" max="100" value="95"></progress></li>
                 <li>Java &nbsp; &nbsp; <progress min="0" max="100" value="70"></progress></li>
             </ul>
-        </section>
-
-        <section id="problem solving">
+       
+        
             <h2>Problem Solving</h2>
             <ul>
                 <li>
@@ -81,9 +62,7 @@ Here are some ideas to get you started:
                     </ul>
                 </li>
             </ul>
-        </section>
-        
-        <section id="achievement">
+       
             <h2>Achievement</h2>
             <ul>
                 <li>Champion in RDCPC(Rangpur Divisional Collegiate Programming Contest)</li>
@@ -93,25 +72,19 @@ Here are some ideas to get you started:
                 <li>NCPC(National Collegiate Programming Contest) final participation</li>
                 <li>ICPC(International Collegiate Programming Contest) regional participation</li>
             </ul>
-        </section>
-
-        <section id="education">
+        
             <h2>Education</h2>
             <ul>
                 <li>B.Sc. (Engineering) in Computer Science and Engineering (2022 - Present) <br>
                     Hajee Mohammad Danesh Science & Technology University</li>
             </ul>
-        </section>
-
-        <section id="language">
+       
             <h2>Language</h2>
             <ul>
                 <li>Bangla&nbsp; <progress min="0" max="100" value="100"></progress></li>
                 <li>English <progress min="0" max="100" value="70"></progress></li>
             </ul>
-        </section>
-
-        <section id="project">
+       
             <h2>Project</h2>
             <ul>
                 <li>
@@ -143,14 +116,13 @@ Here are some ideas to get you started:
 
                 </li>
             </ul>
-        </section>
-        <section>
+       
             <h2>Leadership Experience</h2>
             <ol>
                 <li>Office Secretary at Programmers Arena (Present)</Area></li>
                 <li>Seminar & Workshop Secretary at Programmers Arena, HSTU ( Jan 2024 - Dec 2024)</li>
             </ol>
-        </section>
+       
     </main>
     <footer>
 
