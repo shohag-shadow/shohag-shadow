@@ -29,6 +29,10 @@
             <ul>
                 <li>C/C++ <progress min="0" max="100" value="95"></progress></li>
                 <li>Java &nbsp; &nbsp; <progress min="0" max="100" value="70"></progress></li>
+                <li>HTML &nbsp; &nbsp; <progress min="0" max="100" value="70"></progress></li>
+                <li>CSS &nbsp; &nbsp; <progress min="0" max="100" value="70"></progress></li>
+                <li>Javascript &nbsp; &nbsp; <progress min="0" max="100" value="70"></progress></li>
+                <li>PHP &nbsp; &nbsp; <progress min="0" max="100" value="70"></progress></li>
             </ul>
             <h2>Problem Solving</h2>
             <ul>
