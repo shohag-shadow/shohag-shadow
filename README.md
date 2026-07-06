@@ -7,11 +7,6 @@
 <body>
     <header>
         <h1>Md Shohag Showdagor</h1>
-        <figure>
-        </figure>
-        <img src="./cropped_dp.png" alt="Md Shohag Showdagor's photo" width="300">
-        <figcaption>CSE Student</figcaption>
-        </figure>
         <br>
         <nav>
             <a href="https://www.linkedin.com/in/md-shohag-showdagor/">Linkedin</a> |
