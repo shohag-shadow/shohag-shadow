@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=shohag-shadow&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://hits.sh/github.com/shohag-shadow.svg?style=flat&label=Profile%20views&color=0e75b6" alt="profile views" />
   <a href="https://github.com/shohag-shadow?tab=followers"><img src="https://img.shields.io/github/followers/shohag-shadow?style=flat&logo=github&label=Followers" alt="followers" /></a>
 </p>
 
@@ -83,14 +83,6 @@ const shohag = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=shohag-shadow&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shohag-shadow&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shohag-shadow&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="footer" />
